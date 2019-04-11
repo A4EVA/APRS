@@ -1,4 +1,4 @@
 APRS
 ====
 
-Upgrading GPS Data (NMEA) trought Arduino to a Radio
+Upgrading GPS Data (NMEA) to a Radio by an Arduino Modem
